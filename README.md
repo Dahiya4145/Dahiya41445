@@ -30,20 +30,12 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full-Stack+Developer;Data+Science+%7C+Artificial+Intelligence;Building+%7C+Analyzing+%7C+Innovating" alt="About Me Animation" />
-
-</div>
-
-<br>
-
 <table>
 <tr>
 
 <!-- ======================= LEFT SIDE ======================= -->
 
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
 ### 👋 Hello, I'm Nishant Dahiya
 
@@ -51,7 +43,7 @@ I'm a **Software Engineer & Full-Stack Developer** with a strong foundation in *
 
 <br>
 
-🎓 **Currently pursuing M.Tech in Computer Science & Engineering** at **DCRUST, Murthal**.
+🎓 Currently pursuing **M.Tech in Computer Science & Engineering** at **DCRUST, Murthal**.
 
 <br>
 
@@ -77,9 +69,19 @@ I enjoy transforming real-world problems into **technology-driven solutions**.
 
 <!-- ======================= RIGHT SIDE ======================= -->
 
-<td width="42%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
+
+### 🛠️ What I Work With
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,flask&theme=dark&perline=3" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
 <br><br>
 
@@ -93,10 +95,6 @@ I enjoy transforming real-world problems into **technology-driven solutions**.
 
 <img src="https://img.shields.io/badge/Artificial-Intelligence-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=900&color=22C55E&center=true&vCenter=true&width=350&lines=Code+%E2%86%92+Build;Analyze+%E2%86%92+Understand;AI+%E2%86%92+Innovate" alt="Skills Animation" />
-
 </td>
 
 </tr>
@@ -108,7 +106,7 @@ I enjoy transforming real-world problems into **technology-driven solutions**.
 
 <div align="center">
 
-### ⚡ What I Do
+## ⚡ What I Do
 
 </div>
 
@@ -121,11 +119,12 @@ I enjoy transforming real-world problems into **technology-driven solutions**.
 
 ### Build
 
-Build **scalable web applications** and full-stack solutions using modern technologies.
+Build **scalable web applications** and full-stack solutions.
 
 <br>
 
-`React` · `Node.js` · `Express` · `MongoDB`
+`React` · `Node.js`  
+`Express` · `MongoDB`
 
 </td>
 
@@ -135,11 +134,12 @@ Build **scalable web applications** and full-stack solutions using modern techno
 
 ### Analyze
 
-Transform raw data into **insights, visualizations, and data-driven decisions**.
+Transform raw data into **insights, visualizations, and decisions**.
 
 <br>
 
-`Python` · `Pandas` · `NumPy` · `Power BI`
+`Python` · `Pandas`  
+`NumPy` · `Power BI`
 
 </td>
 
@@ -153,7 +153,8 @@ Explore **Machine Learning, Generative AI, and intelligent applications**.
 
 <br>
 
-`ML` · `Scikit-Learn` · `GenAI` · `Flask`
+`ML` · `Scikit-Learn`  
+`GenAI` · `Flask`
 
 </td>
 
@@ -162,19 +163,25 @@ Explore **Machine Learning, Generative AI, and intelligent applications**.
 
 <br>
 
-<!-- ======================= TECHNOLOGY FLOW ======================= -->
+<!-- ======================= TECHNOLOGY JOURNEY ======================= -->
 
 <div align="center">
 
-### 🧠 My Technology Journey
+## 🧠 Technology Journey
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=%F0%9F%93%8A+Data+%26+Analytics;%E2%86%93;%F0%9F%92%BB+Software+Engineering;%E2%86%93;%F0%9F%A4%96+Artificial+Intelligence;%E2%86%93;%F0%9F%9A%80+Real-World+Solutions" alt="Technology Journey" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=%F0%9F%93%8A+Data+%26+Analytics;%E2%86%93;%F0%9F%92%BB+Software+Engineering;%E2%86%93;%F0%9F%A4%96+Artificial+Intelligence;%E2%86%93;%F0%9F%9A%80+Real-World+Solutions" alt="Technology Journey" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,react,nodejs,mongodb&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb,express,flask&theme=dark&perline=6" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 
 </div>
 
@@ -184,7 +191,7 @@ Explore **Machine Learning, Generative AI, and intelligent applications**.
 
 <div align="center">
 
-### 🎯 Current Mindset
+## 🎯 Current Mindset
 
 > **Build with purpose • Analyze with curiosity • Innovate with technology**
 
@@ -195,6 +202,7 @@ Explore **Machine Learning, Generative AI, and intelligent applications**.
 </div>
 
 <br>
+
 
 <!-- ======================= ABOUT ME FOOTER ======================= -->
 
