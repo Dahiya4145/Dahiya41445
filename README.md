@@ -896,27 +896,267 @@ Completed higher secondary education with a strong foundation in **Mathematics a
 
 ---
 
+<!-- ======================= ACHIEVEMENTS & LEADERSHIP ======================= -->
+
 ## 🏆 Achievements & Leadership
-
-🥉 **3rd Position** — Technical Quiz Contest on Python Programming.
-
-🚀 **Student Head Coordinator** — Institute Innovation Council.
-
-💡 Organized **2 innovation-based hackathons**.
-
-🎤 Coordinated **4 guest talks** focused on innovation and technology.
-
----
-
-## 💡 My Engineering Philosophy
 
 <div align="center">
 
-> ### "Good software is not just about writing code."
->
-> **Understand the Problem → Analyze → Build → Improve → Create Impact**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Compete+%E2%80%A2+Lead+%E2%80%A2+Organize+%E2%80%A2+Inspire;Learning+%E2%80%A2+Collaboration+%E2%80%A2+Innovation+%E2%80%A2+Impact" alt="Achievements Animation" />
 
 </div>
+
+<br>
+
+<!-- ======================= ROW 1 ======================= -->
+
+<table width="100%">
+<tr>
+
+<!-- 🥉 ACHIEVEMENT -->
+
+<td width="50%" valign="top" bgcolor="#EFF6FF">
+
+### 🥉 3rd Position
+
+**Technical Quiz Contest**  
+**Python Programming**
+
+<img src="https://img.shields.io/badge/🏆_Achievement-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/🐍_Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+<br>
+
+Secured **3rd position** in a technical quiz contest, demonstrating strong **Python knowledge and problem-solving skills**.
+
+<br>
+
+</td>
+
+<!-- 👑 LEADERSHIP -->
+
+<td width="50%" valign="top" bgcolor="#F5F0FF">
+
+### 👑 Student Head Coordinator
+
+**Institute Innovation Council**
+
+<img src="https://img.shields.io/badge/👑_Leadership-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/🤝_Coordination-8B5CF6?style=flat-square" />
+
+<br>
+
+Served as **Student Head Coordinator**, supporting innovation initiatives, coordination, collaboration, and student engagement.
+
+<br>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ======================= ROW 2 ======================= -->
+
+<table width="100%">
+<tr>
+
+<!-- 💡 HACKATHONS -->
+
+<td width="50%" valign="top" bgcolor="#ECFDF5">
+
+### 💡 2 Innovation-Based Hackathons
+
+**Event Organization & Innovation**
+
+<img src="https://img.shields.io/badge/💡_Innovation-059669?style=flat-square" />
+<img src="https://img.shields.io/badge/📅_Event_Organization-10B981?style=flat-square" />
+
+<br>
+
+Organized **2 innovation-based hackathons**, encouraging students to explore technology, creativity, and real-world problem solving.
+
+<br>
+
+</td>
+
+<!-- 🎤 GUEST TALKS -->
+
+<td width="50%" valign="top" bgcolor="#FFF7ED">
+
+### 🎤 4 Guest Talks
+
+**Innovation & Technology**
+
+<img src="https://img.shields.io/badge/🎤_Knowledge_Sharing-F97316?style=flat-square" />
+<img src="https://img.shields.io/badge/🤝_Community_Building-F59E0B?style=flat-square" />
+
+<br>
+
+Coordinated **4 guest talks** focused on innovation and technology, providing valuable knowledge and perspectives to students.
+
+<br>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ======================= IMPACT BANNER ======================= -->
+
+<table width="100%">
+<tr>
+
+<td align="center" bgcolor="#EEF2FF">
+
+### 📈 Small Achievements Lead to Bigger Opportunities
+
+<br>
+
+<img src="https://img.shields.io/badge/⭐_LEARN-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/👥_COLLABORATE-4F46E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💡_INNOVATE-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀_IMPACT-0EA5E9?style=for-the-badge" />
+
+<br><br>
+
+<p align="center">
+  <b>
+    Learn&nbsp;&nbsp;→&nbsp;&nbsp;Collaborate&nbsp;&nbsp;→&nbsp;&nbsp;Innovate&nbsp;&nbsp;→&nbsp;&nbsp;Impact
+  </b>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ======================= END ACHIEVEMENTS ======================= -->
+
+
+<!-- ======================= ENGINEERING PHILOSOPHY ======================= -->
+
+## 💡 My Engineering Philosophy
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td align="center" bgcolor="#F8FAFF">
+
+<br>
+
+### 💻 "Good software is not just about writing code."
+
+<br>
+
+<p>
+<b>It is about understanding problems, creating thoughtful solutions, and delivering meaningful impact.</b>
+</p>
+
+<br>
+
+<!-- ======================= PHILOSOPHY FLOW ======================= -->
+
+<table width="95%">
+<tr>
+
+<td width="25%" align="center" bgcolor="#EEF2FF">
+
+### 🔍
+### Understand
+
+**The Problem**
+
+<br>
+
+Understand the requirements,  
+users, and real-world context  
+before writing code.
+
+</td>
+
+<td width="25%" align="center" bgcolor="#F5F3FF">
+
+### 📊
+### Analyze
+
+**Think Clearly**
+
+<br>
+
+Break complex problems  
+into smaller, measurable  
+and solvable pieces.
+
+</td>
+
+<td width="25%" align="center" bgcolor="#EFF6FF">
+
+### 🛠️
+### Build
+
+**The Solution**
+
+<br>
+
+Design clean, scalable and  
+maintainable solutions using  
+the right technologies.
+
+</td>
+
+<td width="25%" align="center" bgcolor="#ECFDF5">
+
+### 🚀
+### Improve
+
+**Create Impact**
+
+<br>
+
+Test, optimize and continuously  
+improve solutions to create  
+real-world value.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ======================= ENGINEERING PRINCIPLES ======================= -->
+
+<img src="https://img.shields.io/badge/🧠_PROBLEM--SOLVING-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚙️_CLEAN_CODE-4F46E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📈_CONTINUOUS_IMPROVEMENT-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎯_REAL--WORLD_IMPACT-10B981?style=for-the-badge" />
+
+<br><br>
+
+<p align="center">
+  <b>
+    Understand&nbsp;&nbsp;→&nbsp;&nbsp;Analyze&nbsp;&nbsp;→&nbsp;&nbsp;Build&nbsp;&nbsp;→&nbsp;&nbsp;Improve
+  </b>
+</p>
+
+<br>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ======================= END ENGINEERING PHILOSOPHY ======================= -->
 
 ---
 
