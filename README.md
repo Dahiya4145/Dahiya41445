@@ -1,8 +1,3 @@
-Absolutely. Here is the **complete `README.md` in one single block** so you can directly copy and paste it into your GitHub profile repository.
-
-I’ve kept it based on your resume and your actual profile positioning: **Software Engineer | Full-Stack Developer | MERN | Data Science & AI**. 
-
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Nishant%20Dahiya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Data%20%26%20AI&descAlignY=58&descSize=18"/>
