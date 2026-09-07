@@ -234,7 +234,7 @@ Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+%E2%86%92+Analyzing+%E2%86%92+Innovating;Turning+Ideas+into+Real-World+Solutions" alt="Experience Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+%E2%86%92+Analyzing+%E2%86%92+Innovating;Turning+Technical+Skills+into+Real-World+Solutions" alt="Experience Animation" />
 
 </div>
 
@@ -245,7 +245,7 @@ Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a 
 
 <td width="8%" align="center">
 
-🚀
+### 🚀
 
 </td>
 
@@ -253,46 +253,26 @@ Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a 
 
 ## Freelance MERN Stack Developer — FIVRA
 
-**📅 December 2025 – August 2026**
+**📅 December 2025 – Present**
 
 <br>
 
-### 🧩 Core Development
+**🧰 Technology Stack**
 
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" />
 
 <br><br>
 
+**⚡ Key Contributions**
+
 - 🚀 Developed custom web applications using **MongoDB, Express.js, React.js, and Node.js**
 - 🛒 Built e-commerce platforms with **authentication, product management, and payment integration**
-- 🤖 Developed AI-powered web applications using **Generative AI APIs**
-- ⚙️ Optimized application performance and delivered projects within timelines
+- 🤖 Developed **AI-powered web applications** using Generative AI APIs
+- ⚙️ Optimized application performance and ensured **timely project delivery**
 
 <br>
 
-### ✨ Featured AI Project
-
-<table>
-<tr>
-<td>
-
-### 📄 AI-Enabled Resume Builder & Enhancer
-
-**🤖 AI-Powered Application**
-
-- ✨ Built an AI-enabled platform for **creating and enhancing resumes**
-- 🧠 Integrated **Generative AI** to improve resume content and presentation
-- 📝 Assisted users in generating and refining professional resume sections
-- 🎯 Designed the application to help create **job-ready, structured resumes**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-**🎯 Focus:**  
-`MERN Stack` · `Full-Stack Development` · `Generative AI` · `AI Applications`
+**🎯 Focus:** `Full-Stack Development` · `MERN Stack` · `Generative AI` · `Web Applications`
 
 </td>
 
@@ -302,7 +282,9 @@ Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a 
 <td colspan="2" align="center">
 
 ⬇️  
-**DATA & ANALYTICS EXPERIENCE**  
+⬇️  
+**EXPANDING INTO DATA & ANALYTICS**  
+⬇️  
 ⬇️
 
 </td>
@@ -312,7 +294,7 @@ Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a 
 
 <td width="8%" align="center">
 
-📊
+### 📊
 
 </td>
 
@@ -324,6 +306,8 @@ Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a 
 
 <br>
 
+**🧰 Technology Stack**
+
 <img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
 &nbsp;&nbsp;
@@ -332,7 +316,7 @@ Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a 
 
 <br><br>
 
-### 📈 Analytics & Optimization
+**📈 Key Contributions**
 
 - 📊 Analyzed **order and delivery data** to identify trends and improve operational efficiency
 - 📉 Created interactive **Power BI dashboards** for data-driven decision-making
@@ -341,8 +325,7 @@ Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a 
 
 <br>
 
-**🎯 Focus:**  
-`Data Analytics` · `Power BI` · `Route Optimization` · `Packaging Waste Reduction`
+**🎯 Focus:** `Data Analytics` · `Power BI` · `Route Optimization` · `Packaging Waste Reduction`
 
 </td>
 
@@ -355,19 +338,20 @@ Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a 
 
 ### 🔗 Career Journey
 
-**📊 Data Analytics**  
-&nbsp;&nbsp;&nbsp;↓&nbsp;&nbsp;&nbsp;  
-**💻 Full-Stack Development**  
-&nbsp;&nbsp;&nbsp;↓&nbsp;&nbsp;&nbsp;  
-**🤖 Generative AI**  
-&nbsp;&nbsp;&nbsp;↓&nbsp;&nbsp;&nbsp;  
-**🚀 AI-Powered Applications**
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Analyze+%E2%86%92+Develop+%E2%86%92+Integrate+AI+%E2%86%92+Deliver;Continuous+Learning+%7C+Continuous+Building" alt="Career Journey" />
-
-</div>
+```text
+📊 Data Analytics
+       │
+       ▼
+📈 Data-Driven Problem Solving
+       │
+       ▼
+💻 Full-Stack Development
+       │
+       ▼
+🤖 AI-Powered Applications
+       │
+       ▼
+🚀 Software Engineering
 
 ## 🔥 Featured Projects
 
