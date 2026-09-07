@@ -710,17 +710,15 @@ Optimize, improve, and turn ideas into impact.
 
 <td width="13%" align="center" valign="middle" bgcolor="#EEF2FF">
 
-### 🎓
-
-**2025–2027**
+<img src="https://img.icons8.com/fluency/48/calendar.png" width="38" />
 
 <br>
 
-🟣
+<img src="https://img.shields.io/badge/2025--2027-6366F1?style=for-the-badge" />
 
 </td>
 
-<td width="62%" valign="top" bgcolor="#F8F7FF">
+<td width="57%" valign="middle" bgcolor="#F8F7FF">
 
 ### 🎓 M.Tech in Computer Science & Engineering
 
@@ -730,21 +728,19 @@ Optimize, improve, and turn ideas into impact.
 
 Currently pursuing **M.Tech CSE**, strengthening my expertise in advanced computer science concepts and emerging technologies.
 
-<br>
-
-<img src="https://img.shields.io/badge/PURSUING-6366F1?style=flat-square&logo=google-scholar&logoColor=white" />
-
 </td>
 
-<td width="25%" align="center" valign="middle" bgcolor="#F8F7FF">
+<td width="30%" align="center" valign="middle" bgcolor="#F8F7FF">
 
 ### 📊 Current SGPA
 
-# **8.4**
+# **8.4 / 10**
 
-**/ 10**
+<img src="https://img.shields.io/badge/PURSUING-6366F1?style=flat-square&logo=google-scholar&logoColor=white" />
 
-📅 2025 – 2027
+<br>
+
+📅 **2025 – 2027**
 
 </td>
 
@@ -760,17 +756,15 @@ Currently pursuing **M.Tech CSE**, strengthening my expertise in advanced comput
 
 <td width="13%" align="center" valign="middle" bgcolor="#EFF6FF">
 
-### 🎓
-
-**2021–2025**
+<img src="https://img.icons8.com/fluency/48/calendar.png" width="38" />
 
 <br>
 
-🔵
+<img src="https://img.shields.io/badge/2021--2025-0EA5E9?style=for-the-badge" />
 
 </td>
 
-<td width="62%" valign="top" bgcolor="#F5FAFF">
+<td width="57%" valign="middle" bgcolor="#F5FAFF">
 
 ### 💻 B.Tech in Computer Science & Engineering
 
@@ -782,21 +776,19 @@ Currently pursuing **M.Tech CSE**, strengthening my expertise in advanced comput
 
 Completed my undergraduate degree with a focus on **Data Science, software development, and analytical problem solving**.
 
-<br>
-
-<img src="https://img.shields.io/badge/COMPLETED-0EA5E9?style=flat-square&logo=graduation-cap&logoColor=white" />
-
 </td>
 
-<td width="25%" align="center" valign="middle" bgcolor="#F5FAFF">
+<td width="30%" align="center" valign="middle" bgcolor="#F5FAFF">
 
 ### 📈 CGPA
 
-# **7.9**
+# **7.9 / 10**
 
-**/ 10**
+<img src="https://img.shields.io/badge/COMPLETED-0EA5E9?style=flat-square&logo=google-scholar&logoColor=white" />
 
-📅 2021 – 2025
+<br>
+
+📅 **2021 – 2025**
 
 </td>
 
@@ -812,17 +804,15 @@ Completed my undergraduate degree with a focus on **Data Science, software devel
 
 <td width="13%" align="center" valign="middle" bgcolor="#ECFDF5">
 
-### 📚
-
-**2020–2021**
+<img src="https://img.icons8.com/fluency/48/calendar.png" width="38" />
 
 <br>
 
-🟢
+<img src="https://img.shields.io/badge/2020--2021-10B981?style=for-the-badge" />
 
 </td>
 
-<td width="62%" valign="top" bgcolor="#F3FCF8">
+<td width="57%" valign="middle" bgcolor="#F3FCF8">
 
 ### 📚 Class XII — Non-Medical
 
@@ -832,19 +822,19 @@ Completed my undergraduate degree with a focus on **Data Science, software devel
 
 Completed higher secondary education with a strong foundation in **Mathematics and Science**.
 
-<br>
-
-<img src="https://img.shields.io/badge/COMPLETED-10B981?style=flat-square&logo=bookstack&logoColor=white" />
-
 </td>
 
-<td width="25%" align="center" valign="middle" bgcolor="#F3FCF8">
+<td width="30%" align="center" valign="middle" bgcolor="#F3FCF8">
 
 ### 🏆 Percentage
 
 # **90%**
 
-📅 2020 – 2021
+<img src="https://img.shields.io/badge/COMPLETED-10B981?style=flat-square&logo=google-scholar&logoColor=white" />
+
+<br>
+
+📅 **2020 – 2021**
 
 </td>
 
@@ -853,30 +843,11 @@ Completed higher secondary education with a strong foundation in **Mathematics a
 
 <br>
 
-<!-- ======================= EDUCATION FLOW ======================= -->
+<!-- ======================= EDUCATION FOOTER ======================= -->
 
 <div align="center">
 
-### 🧠 Academic Journey
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Mathematics+%26+Science;%E2%86%93;Computer+Science+%2B+Data+Science;%E2%86%93;Advanced+Computer+Science;%E2%86%93;Software+Engineering+%2B+AI" alt="Academic Journey" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb&theme=dark" />
-
-<br><br>
-
-> 💡 **Knowledge builds opportunities.**
-
-<br>
-
-<img src="https://img.shields.io/badge/DISCIPLINE-6366F1?style=flat-square" />
-<img src="https://img.shields.io/badge/LEARNING-0EA5E9?style=flat-square" />
-<img src="https://img.shields.io/badge/GROWTH-10B981?style=flat-square" />
-<img src="https://img.shields.io/badge/IMPACT-8B5CF6?style=flat-square" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=Learn+%E2%80%A2+Grow+%E2%80%A2+Build+%E2%80%A2+Innovate" alt="Education Footer Animation" />
 
 </div>
 
