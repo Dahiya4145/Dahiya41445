@@ -691,6 +691,199 @@ Optimize, improve, and turn ideas into impact.
 
 <!-- ======================= END PROFESSIONAL EXPERIENCE ======================= -->
 
+<!-- ======================= EDUCATION ======================= -->
+
+## 🎓 Education
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=6366F1&center=true&vCenter=true&width=650&lines=Learning+Today+%E2%80%A2+Building+a+Better+Tomorrow;Knowledge+%E2%86%92+Skills+%E2%86%92+Innovation" alt="Education Animation" />
+
+</div>
+
+<br>
+
+<!-- ======================= M.TECH ======================= -->
+
+<table>
+<tr>
+
+<td width="13%" align="center" valign="middle" bgcolor="#EEF2FF">
+
+### 🎓
+
+**2025–2027**
+
+<br>
+
+🟣
+
+</td>
+
+<td width="62%" valign="top" bgcolor="#F8F7FF">
+
+### 🎓 M.Tech in Computer Science & Engineering
+
+🏛️ **DCRUST, Murthal**
+
+<br>
+
+Currently pursuing **M.Tech CSE**, strengthening my expertise in advanced computer science concepts and emerging technologies.
+
+<br>
+
+<img src="https://img.shields.io/badge/PURSUING-6366F1?style=flat-square&logo=google-scholar&logoColor=white" />
+
+</td>
+
+<td width="25%" align="center" valign="middle" bgcolor="#F8F7FF">
+
+### 📊 Current SGPA
+
+# **8.4**
+
+**/ 10**
+
+📅 2025 – 2027
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ======================= B.TECH ======================= -->
+
+<table>
+<tr>
+
+<td width="13%" align="center" valign="middle" bgcolor="#EFF6FF">
+
+### 🎓
+
+**2021–2025**
+
+<br>
+
+🔵
+
+</td>
+
+<td width="62%" valign="top" bgcolor="#F5FAFF">
+
+### 💻 B.Tech in Computer Science & Engineering
+
+**Specialization: Data Science**
+
+🏛️ **DCRUST, Murthal**
+
+<br>
+
+Completed my undergraduate degree with a focus on **Data Science, software development, and analytical problem solving**.
+
+<br>
+
+<img src="https://img.shields.io/badge/COMPLETED-0EA5E9?style=flat-square&logo=graduation-cap&logoColor=white" />
+
+</td>
+
+<td width="25%" align="center" valign="middle" bgcolor="#F5FAFF">
+
+### 📈 CGPA
+
+# **7.9**
+
+**/ 10**
+
+📅 2021 – 2025
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ======================= CLASS XII ======================= -->
+
+<table>
+<tr>
+
+<td width="13%" align="center" valign="middle" bgcolor="#ECFDF5">
+
+### 📚
+
+**2020–2021**
+
+<br>
+
+🟢
+
+</td>
+
+<td width="62%" valign="top" bgcolor="#F3FCF8">
+
+### 📚 Class XII — Non-Medical
+
+🏫 **Govt. Sr. Sec. School**
+
+<br>
+
+Completed higher secondary education with a strong foundation in **Mathematics and Science**.
+
+<br>
+
+<img src="https://img.shields.io/badge/COMPLETED-10B981?style=flat-square&logo=bookstack&logoColor=white" />
+
+</td>
+
+<td width="25%" align="center" valign="middle" bgcolor="#F3FCF8">
+
+### 🏆 Percentage
+
+# **90%**
+
+📅 2020 – 2021
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ======================= EDUCATION FLOW ======================= -->
+
+<div align="center">
+
+### 🧠 Academic Journey
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Mathematics+%26+Science;%E2%86%93;Computer+Science+%2B+Data+Science;%E2%86%93;Advanced+Computer+Science;%E2%86%93;Software+Engineering+%2B+AI" alt="Academic Journey" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb&theme=dark" />
+
+<br><br>
+
+> 💡 **Knowledge builds opportunities.**
+
+<br>
+
+<img src="https://img.shields.io/badge/DISCIPLINE-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/LEARNING-0EA5E9?style=flat-square" />
+<img src="https://img.shields.io/badge/GROWTH-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/IMPACT-8B5CF6?style=flat-square" />
+
+</div>
+
+<br>
+
+<!-- ======================= END EDUCATION ======================= -->
+
 
 ## 📈 GitHub Analytics
 
