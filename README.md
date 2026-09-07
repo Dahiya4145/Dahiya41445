@@ -444,19 +444,6 @@ Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a 
 
 
 
-### The visual hierarchy will be
-
-**IBM SkillsBuild → Data Analytics → Insights**
-
-⬇️ animated transition
-
-**FIVRA → MERN → Full-Stack → Generative AI**
-
-⬇️
-
-**Career Evolution → Data → Software → AI**
-
-
 
 
 ## 📈 GitHub Analytics
