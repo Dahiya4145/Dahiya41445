@@ -442,73 +442,7 @@ Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a 
 
 <div align="center">
 
-## 🧭 Career Evolution
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=%F0%9F%93%8A+Data+Analytics;Data+Analytics+%E2%86%92+Data-Driven+Insights;%F0%9F%92%BB+Full-Stack+Development;Full-Stack+%E2%86%92+Scalable+Web+Applications;%F0%9F%A4%96+Generative+AI;Software+%2B+Data+%2B+AI+%E2%86%92+Intelligent+Applications" alt="Career Evolution Animation" />
-
-<br><br>
-
-```text
-                 💼 PROFESSIONAL JOURNEY
-                          │
-                          ▼
-                 📊 DATA ANALYTICS
-                          │
-                          ▼
-               🔍 DATA-DRIVEN INSIGHTS
-                          │
-                          ▼
-                💻 SOFTWARE ENGINEERING
-                          │
-                          ▼
-                 ⚡ FULL-STACK DEVELOPMENT
-                          │
-                          ▼
-                    🤖 GENERATIVE AI
-                          │
-                          ▼
-                 🚀 AI-POWERED APPS
-````
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Analyze+%E2%86%92+Build+%E2%86%92+Integrate+AI+%E2%86%92+Innovate;Continuous+Learning+%7C+Continuous+Building" alt="Career Philosophy" />
-
-</div>
-
-<br>
-
-<!-- ======================= EXPERIENCE SNAPSHOT ======================= -->
-
-<div align="center">
-
-## ⚡ Experience Snapshot
-
-<br>
-
-<img src="https://img.shields.io/badge/2+-Professional%20Experiences-0EA5E9?style=for-the-badge" />
-
- 
-
-<img src="https://img.shields.io/badge/MERN-Full--Stack-3C873A?style=for-the-badge" />
-
- 
-
-<img src="https://img.shields.io/badge/Data-Analytics-2563EB?style=for-the-badge" />
-
- 
-
-<img src="https://img.shields.io/badge/AI-Applications-7C3AED?style=for-the-badge" />
-
-</div>
-
-<br>
-
-<!-- ======================= END EXPERIENCE ======================= -->
-
-```
 
 ### The visual hierarchy will be
 
