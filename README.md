@@ -228,85 +228,71 @@ Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a 
 
 </div>
 
+
 <!-- ======================= PROFESSIONAL EXPERIENCE ======================= -->
 
 ## 💼 Professional Experience
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+%E2%86%92+Analyzing+%E2%86%92+Innovating;Turning+Technical+Skills+into+Real-World+Solutions" alt="Experience Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=My+Professional+Journey;Data+%E2%86%92+Software+%E2%86%92+AI;Learn+%E2%86%92+Build+%E2%86%92+Optimize+%E2%86%92+Innovate" alt="Professional Journey" />
 
 </div>
 
 <br>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/2024-DATA%20ANALYTICS-2563EB?style=for-the-badge&logo=python&logoColor=white" />
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/2025--2026-SOFTWARE%20ENGINEERING-0EA5E9?style=for-the-badge&logo=react&logoColor=white" />
+
+</div>
+
+<br>
+
+<!-- ======================= CAREER TIMELINE ======================= -->
+
 <table>
 <tr>
 
-<td width="8%" align="center">
-
-### 🚀
-
-</td>
-
-<td width="92%">
-
-## Freelance MERN Stack Developer — FIVRA
-
-**📅 December 2025 – Present**
-
-<br>
-
-**🧰 Technology Stack**
-
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" />
+<td width="12%" align="center" valign="top">
 
 <br><br>
 
-**⚡ Key Contributions**
-
-- 🚀 Developed custom web applications using **MongoDB, Express.js, React.js, and Node.js**
-- 🛒 Built e-commerce platforms with **authentication, product management, and payment integration**
-- 🤖 Developed **AI-powered web applications** using Generative AI APIs
-- ⚙️ Optimized application performance and ensured **timely project delivery**
-
-<br>
-
-**🎯 Focus:** `Full-Stack Development` · `MERN Stack` · `Generative AI` · `Web Applications`
-
-</td>
-
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-⬇️  
-⬇️  
-**EXPANDING INTO DATA & ANALYTICS**  
-⬇️  
-⬇️
-
-</td>
-</tr>
-
-<tr>
-
-<td width="8%" align="center">
-
 ### 📊
 
+**2024**
+
+<br><br>
+
+⬇️
+
+<br><br>
+
+🔹
+<br>
+│
+<br>
+🔹
+<br>
+│
+<br>
+🔹
+
 </td>
 
-<td width="92%">
+<td width="88%" valign="top">
 
-## Data Analyst Intern — IBM SkillsBuild
+## 📊 Data Analyst Intern
 
-**📅 June 2024 – August 2024**
+### IBM SkillsBuild
 
-<br>
+<img src="https://img.shields.io/badge/JUNE_2024-AUGUST_2024-1E293B?style=for-the-badge" />
 
-**🧰 Technology Stack**
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
@@ -316,132 +302,228 @@ Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a 
 
 <br><br>
 
-**📈 Key Contributions**
-
-- 📊 Analyzed **order and delivery data** to identify trends and improve operational efficiency
-- 📉 Created interactive **Power BI dashboards** for data-driven decision-making
-- 🗺️ Worked on **delivery-route optimization** and packaging processes
-- ♻️ Explored approaches for **reducing packaging waste** and improving customer satisfaction
+> **Turning operational data into meaningful insights and optimization opportunities.**
 
 <br>
 
-**🎯 Focus:** `Data Analytics` · `Power BI` · `Route Optimization` · `Packaging Waste Reduction`
+### 🔍 What I Worked On
+
+| Area | Contribution |
+|---|---|
+| 📈 **Data Analysis** | Analyzed order and delivery data to identify trends and improve operational efficiency |
+| 📊 **Visualization** | Created interactive Power BI dashboards for data-driven decision-making |
+| 🗺️ **Optimization** | Worked on delivery-route optimization and packaging processes |
+| ♻️ **Sustainability** | Explored approaches for reducing packaging waste |
+| 🎯 **Business Impact** | Focused on operational efficiency and customer satisfaction |
+
+<br>
+
+**Core Focus**
+
+`Data Analytics` · `EDA` · `Power BI` · `Route Optimization` · `Packaging Waste Reduction`
 
 </td>
 
 </tr>
+
+<!-- ======================= TRANSITION ======================= -->
+
+<tr>
+
+<td colspan="2" align="center">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=DATA+%E2%86%92+INSIGHTS+%E2%86%92+ENGINEERING;Expanding+from+Analytics+to+Software+Development" alt="Career Transition" />
+
+<br><br>
+
+⬇️
+
+<br>
+
+</td>
+
+</tr>
+
+<!-- ======================= FIVRA ======================= -->
+
+<tr>
+
+<td width="12%" align="center" valign="top">
+
+<br><br>
+
+### 🚀
+
+**2025**
+
+<br><br>
+
+⬇️
+
+<br><br>
+
+🔹
+<br>
+│
+<br>
+🔹
+<br>
+│
+<br>
+🔹
+
+</td>
+
+<td width="88%" valign="top">
+
+## 🚀 Freelance MERN Stack Developer
+
+### FIVRA
+
+<img src="https://img.shields.io/badge/DECEMBER_2025-AUGUST_2026-1E293B?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" />
+
+<br><br>
+
+> **Building modern, scalable and AI-powered web applications.**
+
+<br>
+
+### ⚡ What I Worked On
+
+| Area | Contribution |
+|---|---|
+| 💻 **Full-Stack Development** | Developed custom web applications using MongoDB, Express.js, React.js and Node.js |
+| 🛒 **E-Commerce** | Built e-commerce platforms with authentication, product management and payment integration |
+| 🔗 **Backend & APIs** | Developed REST APIs and integrated backend services |
+| 🤖 **Generative AI** | Developed AI-powered web applications using Generative AI APIs |
+| ⚙️ **Performance** | Optimized application performance and ensured timely project delivery |
+
+<br>
+
+### 🧩 Technology Layer
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square&logo=fastapi&logoColor=white" />
+
+<img src="https://img.shields.io/badge/JWT_AUTHENTICATION-111827?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Payment_Integration-7C3AED?style=flat-square" />
+
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white" />
+
+</div>
+
+<br>
+
+**Core Focus**
+
+`MERN Stack` · `Full-Stack Development` · `REST APIs` · `E-Commerce` · `Generative AI`
+
+</td>
+
+</tr>
+
 </table>
 
 <br>
 
+<!-- ======================= ANIMATED CAREER EVOLUTION ======================= -->
+
 <div align="center">
 
-### 🔗 Career Journey
+## 🧭 Career Evolution
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=%F0%9F%93%8A+Data+Analytics;Data+Analytics+%E2%86%92+Data-Driven+Insights;%F0%9F%92%BB+Full-Stack+Development;Full-Stack+%E2%86%92+Scalable+Web+Applications;%F0%9F%A4%96+Generative+AI;Software+%2B+Data+%2B+AI+%E2%86%92+Intelligent+Applications" alt="Career Evolution Animation" />
+
+<br><br>
 
 ```text
-📊 Data Analytics
-       │
-       ▼
-📈 Data-Driven Problem Solving
-       │
-       ▼
-💻 Full-Stack Development
-       │
-       ▼
-🤖 AI-Powered Applications
-       │
-       ▼
-🚀 Software Engineering
-
-## 🔥 Featured Projects
-
-### 🛍️ Sheshri Fashion — Online Fashion Store
-
-**React.js • Node.js • Express.js • MongoDB • Razorpay**
-
-A full-stack fashion e-commerce platform featuring:
-
-- 🛒 Product browsing and cart
-- 🔐 JWT authentication
-- 💳 Razorpay payment integration
-- 📦 Order management
-- 📊 Interactive admin dashboard
-- 🖼️ Cloudinary & ImageKit integration
-- 🔌 Secure REST APIs
-
----
-
-### 🧠 Alzheimer's Disease Detection using Machine Learning
-
-**Python • Scikit-learn • Pandas • NumPy • Flask**
-
-A machine-learning application developed using MRI and clinical data.
-
-**Model Accuracy: 99.25%**
-
-Key features:
-
-- Data preprocessing
-- Feature engineering
-- Model evaluation
-- Disease prediction
-- Risk assessment
-- Flask REST APIs
-
----
-
-### 🏨 Real-Time Hotel Booking Web App
-
-**MERN Stack • JWT • Razorpay**
-
-A full-stack hotel booking platform featuring:
-
-- 🔎 Hotel search
-- 🏨 Booking management
-- 🔐 JWT authentication
-- 💳 Razorpay integration
-- 🤖 Chatbot integration
-- 🔌 REST API testing
-
----
-
-## 📊 Data & AI Journey
-
-```text
-                    DATA
-                     │
-                     ▼
-             ┌───────────────┐
-             │ Data Analysis │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │     EDA       │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │ Data Science  │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │ Machine       │
-             │ Learning      │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │ Artificial    │
-             │ Intelligence  │
-             └───────┬───────┘
-                     │
-                     ▼
-                   IMPACT 🚀
+                 💼 PROFESSIONAL JOURNEY
+                          │
+                          ▼
+                 📊 DATA ANALYTICS
+                          │
+                          ▼
+               🔍 DATA-DRIVEN INSIGHTS
+                          │
+                          ▼
+                💻 SOFTWARE ENGINEERING
+                          │
+                          ▼
+                 ⚡ FULL-STACK DEVELOPMENT
+                          │
+                          ▼
+                    🤖 GENERATIVE AI
+                          │
+                          ▼
+                 🚀 AI-POWERED APPS
 ````
 
----
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Analyze+%E2%86%92+Build+%E2%86%92+Integrate+AI+%E2%86%92+Innovate;Continuous+Learning+%7C+Continuous+Building" alt="Career Philosophy" />
+
+</div>
+
+<br>
+
+<!-- ======================= EXPERIENCE SNAPSHOT ======================= -->
+
+<div align="center">
+
+## ⚡ Experience Snapshot
+
+<br>
+
+<img src="https://img.shields.io/badge/2+-Professional%20Experiences-0EA5E9?style=for-the-badge" />
+
+ 
+
+<img src="https://img.shields.io/badge/MERN-Full--Stack-3C873A?style=for-the-badge" />
+
+ 
+
+<img src="https://img.shields.io/badge/Data-Analytics-2563EB?style=for-the-badge" />
+
+ 
+
+<img src="https://img.shields.io/badge/AI-Applications-7C3AED?style=for-the-badge" />
+
+</div>
+
+<br>
+
+<!-- ======================= END EXPERIENCE ======================= -->
+
+```
+
+### The visual hierarchy will be
+
+**IBM SkillsBuild → Data Analytics → Insights**
+
+⬇️ animated transition
+
+**FIVRA → MERN → Full-Stack → Generative AI**
+
+⬇️
+
+**Career Evolution → Data → Software → AI**
+
+
+
 
 ## 📈 GitHub Analytics
 
