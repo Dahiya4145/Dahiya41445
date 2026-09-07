@@ -228,27 +228,146 @@ Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a 
 
 </div>
 
+<!-- ======================= PROFESSIONAL EXPERIENCE ======================= -->
+
 ## 💼 Professional Experience
 
-### 🚀 Freelance MERN Stack Developer — FIVRA
+<div align="center">
 
-**December 2025 – Present**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+%E2%86%92+Analyzing+%E2%86%92+Innovating;Turning+Ideas+into+Real-World+Solutions" alt="Experience Animation" />
 
-- Developed custom web applications using **MongoDB, Express.js, React.js, and Node.js**.
-- Built e-commerce platforms with authentication, product management, and payment integration.
-- Developed AI-powered web applications using Generative AI APIs.
-- Optimized application performance and ensured timely project delivery.
+</div>
 
-### 📊 Data Analyst Intern — IBM SkillsBuild
+<br>
 
-**June 2024 – August 2024**
+<table>
+<tr>
 
-- Analyzed order and delivery data to identify trends and improve operational efficiency.
-- Created interactive **Power BI dashboards** for data-driven decision-making.
-- Worked on delivery-route optimization and packaging processes.
-- Explored approaches for reducing packaging waste and improving customer satisfaction.
+<td width="8%" align="center">
 
----
+🚀
+
+</td>
+
+<td width="92%">
+
+## Freelance MERN Stack Developer — FIVRA
+
+**📅 December 2025 – August 2026**
+
+<br>
+
+### 🧩 Core Development
+
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" />
+
+<br><br>
+
+- 🚀 Developed custom web applications using **MongoDB, Express.js, React.js, and Node.js**
+- 🛒 Built e-commerce platforms with **authentication, product management, and payment integration**
+- 🤖 Developed AI-powered web applications using **Generative AI APIs**
+- ⚙️ Optimized application performance and delivered projects within timelines
+
+<br>
+
+### ✨ Featured AI Project
+
+<table>
+<tr>
+<td>
+
+### 📄 AI-Enabled Resume Builder & Enhancer
+
+**🤖 AI-Powered Application**
+
+- ✨ Built an AI-enabled platform for **creating and enhancing resumes**
+- 🧠 Integrated **Generative AI** to improve resume content and presentation
+- 📝 Assisted users in generating and refining professional resume sections
+- 🎯 Designed the application to help create **job-ready, structured resumes**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+**🎯 Focus:**  
+`MERN Stack` · `Full-Stack Development` · `Generative AI` · `AI Applications`
+
+</td>
+
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+⬇️  
+**DATA & ANALYTICS EXPERIENCE**  
+⬇️
+
+</td>
+</tr>
+
+<tr>
+
+<td width="8%" align="center">
+
+📊
+
+</td>
+
+<td width="92%">
+
+## Data Analyst Intern — IBM SkillsBuild
+
+**📅 June 2024 – August 2024**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+<br><br>
+
+### 📈 Analytics & Optimization
+
+- 📊 Analyzed **order and delivery data** to identify trends and improve operational efficiency
+- 📉 Created interactive **Power BI dashboards** for data-driven decision-making
+- 🗺️ Worked on **delivery-route optimization** and packaging processes
+- ♻️ Explored approaches for **reducing packaging waste** and improving customer satisfaction
+
+<br>
+
+**🎯 Focus:**  
+`Data Analytics` · `Power BI` · `Route Optimization` · `Packaging Waste Reduction`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 🔗 Career Journey
+
+**📊 Data Analytics**  
+&nbsp;&nbsp;&nbsp;↓&nbsp;&nbsp;&nbsp;  
+**💻 Full-Stack Development**  
+&nbsp;&nbsp;&nbsp;↓&nbsp;&nbsp;&nbsp;  
+**🤖 Generative AI**  
+&nbsp;&nbsp;&nbsp;↓&nbsp;&nbsp;&nbsp;  
+**🚀 AI-Powered Applications**
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Analyze+%E2%86%92+Develop+%E2%86%92+Integrate+AI+%E2%86%92+Deliver;Continuous+Learning+%7C+Continuous+Building" alt="Career Journey" />
+
+</div>
 
 ## 🔥 Featured Projects
 
