@@ -30,20 +30,24 @@
 
 ## 👨‍💻 About Me
 
+<br>
+
+<!-- ======================= INTRO CARD ======================= -->
+
 <table>
 <tr>
 
-<!-- ======================= LEFT SIDE ======================= -->
+<td width="62%" valign="top" bgcolor="#F8FAFC">
 
-<td width="60%" valign="top">
+### 👋 Hello, I'm **Nishant Dahiya**
 
-### 👋 Hello, I'm Nishant Dahiya
+<br>
 
 I'm a **Software Engineer & Full-Stack Developer** with a strong foundation in **Computer Science, Data Science, and Artificial Intelligence**.
 
 <br>
 
-🎓 Currently pursuing **M.Tech in Computer Science & Engineering** at **DCRUST, Murthal**.
+🎓 **Currently pursuing M.Tech in Computer Science & Engineering** at **DCRUST, Murthal**.
 
 <br>
 
@@ -65,13 +69,19 @@ Exploring **Machine Learning, Generative AI, and AI-powered applications**.
 🚀 **Problem Solver**  
 I enjoy transforming real-world problems into **technology-driven solutions**.
 
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Build+with+Purpose+%E2%80%A2+Analyze+with+Curiosity;Technology+%2B+Creativity+%2B+Problem+Solving" alt="About Philosophy" />
+
+</div>
+
 </td>
 
-<!-- ======================= RIGHT SIDE ======================= -->
+<td width="38%" align="center" valign="middle" bgcolor="#F1F5F9">
 
-<td width="40%" align="center" valign="middle">
-
-### 🛠️ What I Work With
+### 🛠️ Technology Focus
 
 <br>
 
@@ -85,15 +95,17 @@ I enjoy transforming real-world problems into **technology-driven solutions**.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Full--Stack-Development-0EA5E9?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/FULL--STACK-0EA5E9?style=for-the-badge&logo=react&logoColor=white" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Data-Analytics-2563EB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/DATA-2563EB?style=for-the-badge&logo=python&logoColor=white" />
 
-<br>
+<img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Artificial-Intelligence-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=900&color=0EA5E9&center=true&vCenter=true&width=320&lines=Code+%E2%86%92+Analyze+%E2%86%92+Innovate" alt="Technology Flow" />
 
 </td>
 
@@ -108,53 +120,121 @@ I enjoy transforming real-world problems into **technology-driven solutions**.
 
 ## ⚡ What I Do
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Build+%7C+Analyze+%7C+Innovate;Turning+Ideas+into+Technology-Driven+Solutions" alt="What I Do" />
+
 </div>
+
+<br>
+
+<!-- ======================= THREE FOCUS AREAS ======================= -->
 
 <table>
 <tr>
 
-<td width="33%" align="center">
+<!-- BUILD -->
 
-### 💻
-
-### Build
-
-Build **scalable web applications** and full-stack solutions.
+<td width="33%" align="center" valign="top" bgcolor="#EFF6FF">
 
 <br>
 
-`React` · `Node.js`  
-`Express` · `MongoDB`
+<img src="https://img.icons8.com/fluency/64/source-code.png" width="55" />
 
-</td>
-
-<td width="33%" align="center">
-
-### 📊
-
-### Analyze
-
-Transform raw data into **insights, visualizations, and decisions**.
+### 💻 Build
 
 <br>
 
-`Python` · `Pandas`  
-`NumPy` · `Power BI`
+**Full-Stack Development**
+
+<br>
+
+Build **scalable web applications** and complete full-stack solutions using modern technologies.
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark&perline=4" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square" />
+<img src="https://img.shields.io/badge/MERN-3C873A?style=flat-square" />
+
+<br><br>
 
 </td>
 
-<td width="33%" align="center">
+<!-- ANALYZE -->
 
-### 🤖
+<td width="33%" align="center" valign="top" bgcolor="#F0FDF4">
 
-### Innovate
+<br>
+
+<img src="https://img.icons8.com/fluency/64/combo-chart.png" width="55" />
+
+### 📊 Analyze
+
+<br>
+
+**Data & Analytics**
+
+<br>
+
+Transform raw data into **insights, visualizations, and data-driven decisions**.
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/EDA-2563EB?style=flat-square" />
+
+<br><br>
+
+</td>
+
+<!-- INNOVATE -->
+
+<td width="33%" align="center" valign="top" bgcolor="#FAF5FF">
+
+<br>
+
+<img src="https://img.icons8.com/fluency/64/artificial-intelligence.png" width="55" />
+
+### 🤖 Innovate
+
+<br>
+
+**AI & Machine Learning**
+
+<br>
 
 Explore **Machine Learning, Generative AI, and intelligent applications**.
 
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,flask&theme=dark&perline=2" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+
 <br>
 
-`ML` · `Scikit-Learn`  
-`GenAI` · `Flask`
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+
+<br><br>
 
 </td>
 
@@ -163,46 +243,69 @@ Explore **Machine Learning, Generative AI, and intelligent applications**.
 
 <br>
 
-<!-- ======================= TECHNOLOGY JOURNEY ======================= -->
+<!-- ======================= WORKFLOW ======================= -->
 
 <div align="center">
 
-## 🧠 Technology Journey
+## 🧠 How I Approach Problems
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=%F0%9F%93%8A+Data+%26+Analytics;%E2%86%93;%F0%9F%92%BB+Software+Engineering;%E2%86%93;%F0%9F%A4%96+Artificial+Intelligence;%E2%86%93;%F0%9F%9A%80+Real-World+Solutions" alt="Technology Journey" />
+<table>
+<tr>
 
-<br><br>
+<td align="center" bgcolor="#F8FAFC">
 
-<img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb,express,flask&theme=dark&perline=6" />
+### 🔍 Understand
 
-<br><br>
+Identify the problem, requirements, and available data.
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+</td>
+
+<td align="center">
+
+### 📊 Analyze
+
+Explore data, patterns, and possible approaches.
+
+</td>
+
+<td align="center" bgcolor="#F8FAFC">
+
+### 💻 Build
+
+Design and develop practical technology solutions.
+
+</td>
+
+<td align="center">
+
+### 🤖 Enhance
+
+Integrate AI and intelligent capabilities where useful.
+
+</td>
+
+<td align="center" bgcolor="#F8FAFC">
+
+### 🚀 Deliver
+
+Optimize, improve, and turn ideas into impact.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Understand+%E2%86%92+Analyze+%E2%86%92+Build+%E2%86%92+Enhance+%E2%86%92+Deliver;Turning+Real-World+Problems+into+Technology-Driven+Solutions" alt="Problem Solving Workflow" />
 
 </div>
 
 <br>
 
-<!-- ======================= CURRENT MINDSET ======================= -->
-
-<div align="center">
-
-## 🎯 Current Mindset
-
-> **Build with purpose • Analyze with curiosity • Innovate with technology**
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Always+Learning+%7C+Always+Building;Turning+Ideas+into+Impact;Technology+%2B+Creativity+%2B+Problem+Solving" alt="Mindset Animation" />
-
-</div>
-
-<br>
-
+<!-- ======================= END ABOUT ME ======================= -->
 
 <!-- ======================= ABOUT ME FOOTER ======================= -->
 
