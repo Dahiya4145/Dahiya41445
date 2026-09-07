@@ -1160,21 +1160,39 @@ real-world value.
 
 ---
 
+<!-- ======================= ALWAYS LEARNING ======================= -->
+
 ## 🌱 Always Learning
 
-```text
-Software Engineering
-        ↓
-Full-Stack Development
-        ↓
-Data Science
-        ↓
-Artificial Intelligence
-        ↓
-Real-World Impact
-```
+<div align="center">
 
-I'm continuously learning, experimenting, and building projects that help me grow as a **Software Engineer**.
+### Software Engineering → Full-Stack Development → Data Science → AI
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/EXPLORE-6366F1?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/LEARN-0EA5E9?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/BUILD-10B981?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/IMPROVE-8B5CF6?style=flat-square" />
+
+<br><br>
+
+<sub>
+Continuously learning, experimenting, and building projects to grow as a Software Engineer.
+</sub>
+
+</div>
+
+<br>
+
+<!-- ======================= END ALWAYS LEARNING ======================= -->
 
 ---
 
