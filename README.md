@@ -100,7 +100,6 @@ Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Development+%7C+Data+Science+%7C+AI;Build+%E2%86%92+Analyze+%E2%86%92+Innovate;Turning+Ideas+into+Real-World+Solutions" />
 
-</div>
 
 ### 🌐 Full-Stack Development
 
