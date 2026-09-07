@@ -44,37 +44,91 @@ Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a 
 
 ---
 
+<!-- ======================= CURRENT FOCUS ======================= -->
+
 ## 🚀 What I'm Currently Focused On
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Exploring+Data+%26+Artificial+Intelligence;Turning+Ideas+into+Real-World+Solutions" alt="Current Focus" />
+
+</div>
+
+<br>
 
 <table>
 <tr>
-<td width="50%">
 
-### 💻 Software Engineering
+<td width="50%" valign="top">
 
-- Full-Stack Development
-- MERN Stack
-- REST APIs
-- Backend Development
-- Authentication & Authorization
-- Payment Integration
+<h3 align="center">💻 Software Engineering</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql&theme=dark" />
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack_Development-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/MERN_Stack-3C873A?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+- ⚡ Full-Stack Development
+- 🧩 MERN Stack
+- 🔗 REST APIs
+- ⚙️ Backend Development
+- 🔐 Authentication & Authorization
+- 💳 Payment Integration
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Data & AI
+<h3 align="center">🤖 Data & Artificial Intelligence</h3>
 
-- Data Analytics
-- Data Visualization
-- Machine Learning
-- Generative AI
-- AI-powered Applications
-- Data-driven Solutions
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask&theme=dark" />
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Analytics-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+</p>
+
+- 📊 Data Analytics
+- 📈 Data Visualization
+- 🧠 Machine Learning
+- ✨ Generative AI
+- 🤖 AI-Powered Applications
+- 💡 Data-Driven Solutions
 
 </td>
+
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+### 🎯 My Current Direction
+
+<img src="https://img.shields.io/badge/Software_Engineering-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Science-1E40AF?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Code+%E2%86%92+Build+%E2%86%92+Analyze+%E2%86%92+Innovate;Learning+Today.+Building+Tomorrow." alt="Direction" />
+
+</div>
 
 <!-- ======================= TECH STACK ======================= -->
 
