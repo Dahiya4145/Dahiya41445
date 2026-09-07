@@ -26,21 +26,185 @@
 
 ---
 
+<!-- ======================= ABOUT ME ======================= -->
+
 ## 👨‍💻 About Me
 
-Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a strong foundation in **Computer Science, Data Science, and Artificial Intelligence**.
+<div align="center">
 
-🎓 Currently pursuing **M.Tech in Computer Science & Engineering** at **DCRUST, Murthal**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full-Stack+Developer;Data+Science+%7C+Artificial+Intelligence;Building+%7C+Analyzing+%7C+Innovating" alt="About Me Animation" />
 
-💻 Working as a **Freelance MERN Stack Developer**, building practical and scalable web applications.
+</div>
 
-📊 Experienced in **Data Analytics, Data Visualization, and Business Intelligence**.
+<br>
 
-🤖 Exploring **Machine Learning, Generative AI, and AI-powered applications**.
+<table>
+<tr>
 
-🚀 I enjoy turning real-world problems into technology-driven solutions.
+<!-- ======================= LEFT SIDE ======================= -->
 
-> **Build • Analyze • Innovate • Impact**
+<td width="58%" valign="top">
+
+### 👋 Hello, I'm Nishant Dahiya
+
+I'm a **Software Engineer & Full-Stack Developer** with a strong foundation in **Computer Science, Data Science, and Artificial Intelligence**.
+
+<br>
+
+🎓 **Currently pursuing M.Tech in Computer Science & Engineering** at **DCRUST, Murthal**.
+
+<br>
+
+💻 **Full-Stack Development**  
+Building practical and scalable web applications using the **MERN Stack**.
+
+<br>
+
+📊 **Data & Analytics**  
+Working with **Data Analytics, Data Visualization, and Business Intelligence** to turn data into meaningful insights.
+
+<br>
+
+🤖 **AI & Machine Learning**  
+Exploring **Machine Learning, Generative AI, and AI-powered applications**.
+
+<br>
+
+🚀 **Problem Solver**  
+I enjoy transforming real-world problems into **technology-driven solutions**.
+
+</td>
+
+<!-- ======================= RIGHT SIDE ======================= -->
+
+<td width="42%" align="center" valign="middle">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,flask&theme=dark&perline=3" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Full--Stack-Development-0EA5E9?style=for-the-badge&logo=react&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Data-Analytics-2563EB?style=for-the-badge&logo=python&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Artificial-Intelligence-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=900&color=22C55E&center=true&vCenter=true&width=350&lines=Code+%E2%86%92+Build;Analyze+%E2%86%92+Understand;AI+%E2%86%92+Innovate" alt="Skills Animation" />
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ======================= WHAT I DO ======================= -->
+
+<div align="center">
+
+### ⚡ What I Do
+
+</div>
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 💻
+
+### Build
+
+Build **scalable web applications** and full-stack solutions using modern technologies.
+
+<br>
+
+`React` · `Node.js` · `Express` · `MongoDB`
+
+</td>
+
+<td width="33%" align="center">
+
+### 📊
+
+### Analyze
+
+Transform raw data into **insights, visualizations, and data-driven decisions**.
+
+<br>
+
+`Python` · `Pandas` · `NumPy` · `Power BI`
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖
+
+### Innovate
+
+Explore **Machine Learning, Generative AI, and intelligent applications**.
+
+<br>
+
+`ML` · `Scikit-Learn` · `GenAI` · `Flask`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ======================= TECHNOLOGY FLOW ======================= -->
+
+<div align="center">
+
+### 🧠 My Technology Journey
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=%F0%9F%93%8A+Data+%26+Analytics;%E2%86%93;%F0%9F%92%BB+Software+Engineering;%E2%86%93;%F0%9F%A4%96+Artificial+Intelligence;%E2%86%93;%F0%9F%9A%80+Real-World+Solutions" alt="Technology Journey" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,react,nodejs,mongodb&theme=dark&perline=6" />
+
+</div>
+
+<br>
+
+<!-- ======================= CURRENT MINDSET ======================= -->
+
+<div align="center">
+
+### 🎯 Current Mindset
+
+> **Build with purpose • Analyze with curiosity • Innovate with technology**
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Always+Learning+%7C+Always+Building;Turning+Ideas+into+Impact;Technology+%2B+Creativity+%2B+Problem+Solving" alt="Mindset Animation" />
+
+</div>
+
+<br>
+
+<!-- ======================= ABOUT ME FOOTER ======================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
+
+</div>
+
+<!-- ======================= END ABOUT ME ======================= -->
 
 ---
 
