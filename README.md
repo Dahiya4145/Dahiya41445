@@ -1,28 +1,57 @@
+<!-- ======================= PROFILE HEADER ======================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Nishant%20Dahiya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Data%20%26%20AI&descAlignY=58&descSize=18"/>
+# 👋 Hi, I'm Nishant Dahiya
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Engineer;Full-Stack+Developer;MERN+Stack+Developer;Data+Science+%26+AI+Enthusiast;Building+Ideas+into+Impact" alt="Typing SVG" />
+### Software Engineer • Full-Stack Developer • Data & AI Enthusiast
 
-<br><br>
+<br>
+
+<p>
+  Building scalable web applications, exploring data-driven solutions,
+  <br>
+  and integrating AI to solve real-world problems.
+</p>
+
+<br>
+
+<!-- ======================= SOCIAL LINKS ======================= -->
 
 <a href="https://www.linkedin.com/in/nishant-dahiya-080bb4259">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+&nbsp;
 
 <a href="https://github.com/Dahiya4145">
-<img src="https://img.shields.io/badge/GitHub-Dahiya4145-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Dahiya4145-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+&nbsp;
+
 <a href="mailto:dahiya4145@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Dahiya4145&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<!-- ======================= TECH FOCUS ======================= -->
+
+<img src="https://img.shields.io/badge/MERN-Stack-10B981?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Data%20%26%20AI-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-Backend-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative%20AI-Exploring-7C3AED?style=flat-square" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Dahiya4145&label=Profile%20Views&color=10B981&style=flat-square" alt="Profile Views" />
 
 </div>
+
+<br>
+
+---
 
 ---
 
