@@ -76,52 +76,79 @@ Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a 
 </tr>
 </table>
 
----
+<!-- ======================= TECH STACK ======================= -->
 
-## 🛠️ Tech Stack
+## ⚡ Technology Arsenal
 
-### 💻 Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css" />
-</p>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="70" height="70" />
+
+</div>
+
+<br>
+
+<div align="center">
 
 ### 🌐 Full-Stack Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
 
 ### 📊 Data Science & Analytics
 
-<p>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+&nbsp;&nbsp;
 
-</p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 
-### 🤖 AI & Machine Learning
+</div>
 
-<p>
+<br>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<div align="center">
 
-</p>
+### 🤖 Artificial Intelligence & Machine Learning
 
-### 🔧 Tools
+<img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+</div>
 
----
+<br>
+
+<div align="center">
+
+### 🧰 Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Code+%E2%86%92+Build+%E2%86%92+Analyze+%E2%86%92+Innovate;Turning+Ideas+into+Real-World+Solutions;Full-Stack+%2B+Data+%2B+AI" alt="Technology Animation" />
+
+</div>
 
 ## 💼 Professional Experience
 
