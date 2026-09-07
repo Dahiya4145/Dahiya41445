@@ -885,14 +885,7 @@ Completed higher secondary education with a strong foundation in **Mathematics a
 </div>
 
 ---
-
-## 🎓 Education
-
-| Degree                       | Institution           |       Result | Year      |
-| ---------------------------- | --------------------- | -----------: | --------- |
-| 🎓 M.Tech CSE                | DCRUST, Murthal       | **8.4 SGPA** | 2025–2027 |
-| 🎓 B.Tech CSE — Data Science | DCRUST, Murthal       | **7.9 CGPA** | 2021–2025 |
-| 📚 Class XII — Non-Medical   | Govt. Sr. Sec. School |      **90%** | 2020–2021 |
+|
 
 ---
 
