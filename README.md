@@ -1245,5 +1245,5 @@ Continuously learning, experimenting, and building projects to grow as a Softwar
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=120&section=footer"/>
 
 </div>
-```
+
 
