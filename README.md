@@ -235,116 +235,15 @@ Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=My+Professional+Journey;Data+%E2%86%92+Software+%E2%86%92+AI;Learn+%E2%86%92+Build+%E2%86%92+Optimize+%E2%86%92+Innovate" alt="Professional Journey" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=My+Professional+Journey;Software+Engineering+%7C+Data+Analytics+%7C+AI;Learn+%E2%86%92+Build+%E2%86%92+Innovate" alt="Professional Journey" />
 
 </div>
 
 <br>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/2024-DATA%20ANALYTICS-2563EB?style=for-the-badge&logo=python&logoColor=white" />
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/2025--2026-SOFTWARE%20ENGINEERING-0EA5E9?style=for-the-badge&logo=react&logoColor=white" />
-
-</div>
-
-<br>
-
-<!-- ======================= CAREER TIMELINE ======================= -->
+<!-- ======================= EXPERIENCE TIMELINE ======================= -->
 
 <table>
-<tr>
-
-<td width="12%" align="center" valign="top">
-
-<br><br>
-
-### 📊
-
-**2024**
-
-<br><br>
-
-⬇️
-
-<br><br>
-
-🔹
-<br>
-│
-<br>
-🔹
-<br>
-│
-<br>
-🔹
-
-</td>
-
-<td width="88%" valign="top">
-
-## 📊 Data Analyst Intern
-
-### IBM SkillsBuild
-
-<img src="https://img.shields.io/badge/JUNE_2024-AUGUST_2024-1E293B?style=for-the-badge" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-
-&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
-<br><br>
-
-> **Turning operational data into meaningful insights and optimization opportunities.**
-
-<br>
-
-### 🔍 What I Worked On
-
-| Area | Contribution |
-|---|---|
-| 📈 **Data Analysis** | Analyzed order and delivery data to identify trends and improve operational efficiency |
-| 📊 **Visualization** | Created interactive Power BI dashboards for data-driven decision-making |
-| 🗺️ **Optimization** | Worked on delivery-route optimization and packaging processes |
-| ♻️ **Sustainability** | Explored approaches for reducing packaging waste |
-| 🎯 **Business Impact** | Focused on operational efficiency and customer satisfaction |
-
-<br>
-
-**Core Focus**
-
-`Data Analytics` · `EDA` · `Power BI` · `Route Optimization` · `Packaging Waste Reduction`
-
-</td>
-
-</tr>
-
-<!-- ======================= TRANSITION ======================= -->
-
-<tr>
-
-<td colspan="2" align="center">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=DATA+%E2%86%92+INSIGHTS+%E2%86%92+ENGINEERING;Expanding+from+Analytics+to+Software+Development" alt="Career Transition" />
-
-<br><br>
-
-⬇️
-
-<br>
-
-</td>
-
-</tr>
 
 <!-- ======================= FIVRA ======================= -->
 
@@ -356,23 +255,19 @@ Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a 
 
 ### 🚀
 
-**2025**
+**2025–26**
 
 <br><br>
 
-⬇️
-
-<br><br>
-
-🔹
+🔵
 <br>
 │
 <br>
-🔹
+│
 <br>
 │
 <br>
-🔹
+🔵
 
 </td>
 
@@ -386,27 +281,29 @@ Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a 
 
 <br><br>
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" />
 
-<br><br>
+</div>
+
+<br>
 
 > **Building modern, scalable and AI-powered web applications.**
 
 <br>
 
-### ⚡ What I Worked On
+### ⚡ Key Contributions
 
-| Area | Contribution |
-|---|---|
-| 💻 **Full-Stack Development** | Developed custom web applications using MongoDB, Express.js, React.js and Node.js |
-| 🛒 **E-Commerce** | Built e-commerce platforms with authentication, product management and payment integration |
-| 🔗 **Backend & APIs** | Developed REST APIs and integrated backend services |
-| 🤖 **Generative AI** | Developed AI-powered web applications using Generative AI APIs |
-| ⚙️ **Performance** | Optimized application performance and ensured timely project delivery |
+- 💻 Developed custom web applications using **MongoDB, Express.js, React.js and Node.js**
+- 🛒 Built e-commerce platforms with **authentication, product management and payment integration**
+- 🔗 Developed and integrated **REST APIs** for full-stack applications
+- 🤖 Developed AI-powered web applications using **Generative AI APIs**
+- ⚙️ Optimized application performance and ensured timely project delivery
 
 <br>
 
-### 🧩 Technology Layer
+### 🧩 Technologies
 
 <div align="center">
 
@@ -414,21 +311,100 @@ Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a 
 
 <br><br>
 
-<img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square&logo=fastapi&logoColor=white" />
-
-<img src="https://img.shields.io/badge/JWT_AUTHENTICATION-111827?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-
+<img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square" />
+<img src="https://img.shields.io/badge/JWT_Authentication-111827?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/Payment_Integration-7C3AED?style=flat-square" />
-
 <img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white" />
 
 </div>
 
 <br>
 
-**Core Focus**
+**Focus:** `MERN Stack` · `Full-Stack Development` · `REST APIs` · `E-Commerce` · `Generative AI`
 
-`MERN Stack` · `Full-Stack Development` · `REST APIs` · `E-Commerce` · `Generative AI`
+</td>
+
+</tr>
+
+<!-- ======================= IBM ======================= -->
+
+<tr>
+
+<td width="12%" align="center" valign="top">
+
+<br><br>
+
+### 📊
+
+**2024**
+
+<br><br>
+
+🔵
+<br>
+│
+<br>
+│
+<br>
+│
+<br>
+🔵
+
+</td>
+
+<td width="88%" valign="top">
+
+## 📊 Data Analyst Intern
+
+### IBM SkillsBuild
+
+<img src="https://img.shields.io/badge/JUNE_2024-AUGUST_2024-1E293B?style=for-the-badge" />
+
+<br><br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+</div>
+
+<br>
+
+> **Turning operational data into meaningful insights and optimization opportunities.**
+
+<br>
+
+### 🔍 Key Contributions
+
+- 📈 Analyzed **order and delivery data** to identify trends and improve operational efficiency
+- 📊 Created interactive **Power BI dashboards** for data-driven decision-making
+- 🗺️ Worked on **delivery-route optimization** and packaging processes
+- ♻️ Explored approaches for **reducing packaging waste**
+- 🎯 Focused on improving **operational efficiency and customer satisfaction**
+
+<br>
+
+### 🧩 Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+
+</div>
+
+<br>
+
+**Focus:** `Data Analytics` · `EDA` · `Power BI` · `Route Optimization` · `Packaging Waste Reduction`
 
 </td>
 
@@ -438,12 +414,7 @@ Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a 
 
 <br>
 
-<!-- ======================= ANIMATED CAREER EVOLUTION ======================= -->
-
-<div align="center">
-
-
-
+<!-- ======================= END PROFESSIONAL EXPERIENCE ======================= -->
 
 
 ## 📈 GitHub Analytics
