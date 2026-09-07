@@ -80,20 +80,27 @@ Hi! I'm **Nishant Dahiya**, a Software Engineer and Full-Stack Developer with a 
 
 ## ⚡ Technology Arsenal
 
+
 <div align="center">
 
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="70" height="70" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="70" height="70" />
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="70" height="70" />
-<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="70" height="70" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="70" height="70" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
+
+<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" />
+
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
 
 </div>
 
 <br>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Development+%7C+Data+Science+%7C+AI;Build+%E2%86%92+Analyze+%E2%86%92+Innovate;Turning+Ideas+into+Real-World+Solutions" />
+
+</div>
 
 ### 🌐 Full-Stack Development
 
